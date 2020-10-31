@@ -1,0 +1,38 @@
+{
+  "primitives": [],
+  "kanji": [
+    {
+      "id": "1",
+      "character": "引",
+      "keyword": "pull",
+      "primitives": [],
+      "mnemonic": ""
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "引き出し",
+      "hiragana": "ひきだし",
+      "kanji": ["引", "出"],
+      "english": "withdrawel",
+      "mnemonic": "Un HIKIkomori ha entrat a l'oficina de la caixa dient tobikaDASHI!"
+    },
+    {
+      "word": "売り場",
+      "hiragana": "うりば",
+      "kanji": ["売", "場"],
+      "english": ["counter", "booth"],
+      "mnemonic": "On hi ha el mostrador on venen URIBAS? (olives)",
+      "picture": ""
+    },
+    {
+      "word": "雑誌",
+      "hiragana": "ざっし",
+      "kanji": ["雑", "誌"],
+      "english": ["magazine"],
+      "mnemonic": "Picture a turkey sitting in a ZAbuton reading the nintendo magazine. It's so relaxing that it's SHItting himself. What a mess...",
+      "picture": ""
+    }
+  ],
+  "phrases": []
+}
